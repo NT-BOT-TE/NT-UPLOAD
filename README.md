@@ -16,6 +16,13 @@
 
 **Watch our Video for Create own Bot** 👉 https://youtu.be/iKlE3lWdm14
 
+### SUBMODULE
+```sh
+$ git submodule deinit PATH-TO-SUBMODULE
+$ git rm PATH-TO-SUBMODULE
+$ git commit -m "Remove submodule"
+$ rm -rf .git/modules/PATH-TO-SUBMODULE
+```
 ## Telegram Channel And Group 👇👇
 
 
