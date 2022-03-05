@@ -16,12 +16,12 @@ class Translation(object):
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | filename | username | password"""
     NOYES_URL = "@robot URL detected. Please use https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
-    DOWNLOAD_START = "📥 Downloading..."
-    UPLOAD_START = "📤 Uploading..."
+    DOWNLOAD_START = "📥 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗜𝗡𝗚..."
+    UPLOAD_START = "📤 𝗨𝗣𝗟𝗢𝗔𝗗𝗜𝗡𝗚..."
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.9GB due to Telegram API limitations."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "Please rate me if you find me useful. Join : @NT_BOT_CHANNEL"
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = """<b>Uploaded Successfully</b> 😍 
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = """<b>𝗨𝗽𝗹𝗼𝗮𝗱𝗲𝗱 𝗦𝘂𝗰𝗰𝗲𝘀𝘀𝗳𝘂𝗹𝗹𝘆</b> 😍 
 
 <b>Join channel: @NT_BOT_CHANNEL</b>"""
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
